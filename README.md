@@ -30,9 +30,11 @@ https://shields.io/
 `![curiosity](https://img.shields.io/badge/curiosity-%E5%A5%BD%E5%A5%87%E5%BF%83%E3%81%A7%E3%81%8D%E3%81%8D%E3%81%9F%E3%81%84-ff69b4)`
 
 ![FYI](https://img.shields.io/badge/For%20Your%20Information-%E5%8F%82%E8%80%83%E3%81%BE%E3%81%A7%E3%81%AB-9cf)
+
 `![FYI](https://img.shields.io/badge/For%20Your%20Information-%E5%8F%82%E8%80%83%E3%81%BE%E3%81%A7%E3%81%AB-9cf)`
 
 ![NRN](https://img.shields.io/badge/No%20Reply%20Needed-%E8%BF%94%E4%BF%A1%E3%81%97%E3%81%AA%E3%81%8F%E3%81%A6%E3%82%82OK-success)
+
 `![FYI](https://img.shields.io/badge/For%20Your%20Information-%E5%8F%82%E8%80%83%E3%81%BE%E3%81%A7%E3%81%AB-9cf)`
 
 ## tips
