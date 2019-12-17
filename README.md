@@ -38,8 +38,8 @@ https://shields.io/
 ![suggestion](https://img.shields.io/badge/suggestion-%E6%8F%90%E6%A1%88-blueviolet)
 `![suggestion](https://img.shields.io/badge/suggestion-%E6%8F%90%E6%A1%88-blueviolet)`
 
-![consultation](https://img.shields.io/badge/suggestion-%E7%9B%B8%E8%AB%87-blue)
-`![consultation](https://img.shields.io/badge/suggestion-%E6%8F%90%E6%A1%88-blue)`
+![consultation](https://img.shields.io/badge/consultation-%E7%9B%B8%E8%AB%87-blue)
+`![consultation](https://img.shields.io/badge/consultation-%E6%8F%90%E6%A1%88-blue)`
 
 
 ## tips
