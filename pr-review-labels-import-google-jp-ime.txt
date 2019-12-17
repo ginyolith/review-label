@@ -1,7 +1,7 @@
 にちぇ	![niche](https://img.shields.io/badge/niche-%E7%B4%B0%E3%81%8B%E3%81%84%E3%82%93%E3%81%A0%E3%81%91%E3%81%A9-yellowgreen)	名詞	
 くえｓちおｎ	![question](https://img.shields.io/badge/question-%E8%A9%B3%E3%81%97%E3%81%8F%E3%81%8D%E3%81%8D%E3%81%9F%E3%81%84-lightgrey)	名詞	
 ごおｄ	![good](https://img.shields.io/badge/good-%E3%82%B0%E3%83%83%E3%83%89%EF%BC%81-blue)	名詞	
-こっめんｔ	https://img.shields.io/badge/comment-%E3%82%B3%E3%83%A1%E3%83%B3%E3%83%88-green)	名詞	
+こっめんｔ	![comment](https://img.shields.io/badge/comment-%E3%82%B3%E3%83%A1%E3%83%B3%E3%83%88-green)	名詞	
 しょうｌｄ	![should](https://img.shields.io/badge/should-%E4%BF%AE%E6%AD%A3%E3%81%97%E3%81%A6%E3%81%BB%E3%81%97%E3%81%84-orange)	名詞	
 むｓｔ	![must](https://img.shields.io/badge/must-%E8%A6%81%E4%BB%B6%E3%82%92%E6%BA%80%E3%81%9F%E3%81%97%E3%81%A6%E3%81%84%E3%81%AA%E3%81%84-red)	名詞	
 こうｌｄ	![could](https://img.shields.io/badge/could-%E3%81%A7%E3%81%8D%E3%82%8C%E3%81%B0%E7%9B%B4%E3%81%97%E3%81%A6%E3%81%BB%E3%81%97%E3%81%84-yellow)	名詞	
