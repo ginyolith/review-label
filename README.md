@@ -20,8 +20,8 @@ https://shields.io/
 ![question](https://img.shields.io/badge/question-%E8%A9%B3%E3%81%97%E3%81%8F%E3%81%8D%E3%81%8D%E3%81%9F%E3%81%84-lightgrey)  
 `![question](https://img.shields.io/badge/question-%E8%A9%B3%E3%81%97%E3%81%8F%E3%81%8D%E3%81%8D%E3%81%9F%E3%81%84-lightgrey)`
 
-![good](https://img.shields.io/badge/good-%E3%82%B0%E3%83%83%E3%83%89%EF%BC%81-blue)  
-`![good](https://img.shields.io/badge/good-%E3%82%B0%E3%83%83%E3%83%89%EF%BC%81-blue)`
+![good](https://img.shields.io/badge/good-%E3%82%B0%E3%83%83%E3%83%89%EF%BC%81-brightgreen)  
+`![good](https://img.shields.io/badge/good-%E3%82%B0%E3%83%83%E3%83%89%EF%BC%81-brightgreen)`
 
 ![comment](https://img.shields.io/badge/comment-%E3%82%B3%E3%83%A1%E3%83%B3%E3%83%88-green)  
 `![comment](https://img.shields.io/badge/comment-%E3%82%B3%E3%83%A1%E3%83%B3%E3%83%88-green)`
@@ -30,12 +30,17 @@ https://shields.io/
 `![curiosity](https://img.shields.io/badge/curiosity-%E5%A5%BD%E5%A5%87%E5%BF%83%E3%81%A7%E3%81%8D%E3%81%8D%E3%81%9F%E3%81%84-ff69b4)`
 
 ![FYI](https://img.shields.io/badge/For%20Your%20Information-%E5%8F%82%E8%80%83%E3%81%BE%E3%81%A7%E3%81%AB-9cf)
-
 `![FYI](https://img.shields.io/badge/For%20Your%20Information-%E5%8F%82%E8%80%83%E3%81%BE%E3%81%A7%E3%81%AB-9cf)`
 
 ![NRN](https://img.shields.io/badge/No%20Reply%20Needed-%E8%BF%94%E4%BF%A1%E3%81%97%E3%81%AA%E3%81%8F%E3%81%A6%E3%82%82OK-success)
+`![NRN](https://img.shields.io/badge/No%20Reply%20Needed-%E8%BF%94%E4%BF%A1%E3%81%97%E3%81%AA%E3%81%8F%E3%81%A6%E3%82%82OK-success)`
 
-`![FYI](https://img.shields.io/badge/For%20Your%20Information-%E5%8F%82%E8%80%83%E3%81%BE%E3%81%A7%E3%81%AB-9cf)`
+![suggestion](https://img.shields.io/badge/suggestion-%E6%8F%90%E6%A1%88-blueviolet)
+`![suggestion](https://img.shields.io/badge/suggestion-%E6%8F%90%E6%A1%88-blueviolet)`
+
+![consultation](https://img.shields.io/badge/suggestion-%E7%9B%B8%E8%AB%87-blue)
+`![consultation](https://img.shields.io/badge/suggestion-%E6%8F%90%E6%A1%88-blue)`
+
 
 ## tips
 ユーザー辞書に登録しておくと便利
